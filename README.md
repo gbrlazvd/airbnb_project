@@ -1,2 +1,2 @@
 # airbnb_project
-Em construção...
+Study project aimed to explore Airbnb data about accommodations in New York City.
